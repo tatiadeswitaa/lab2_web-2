@@ -25,6 +25,7 @@ Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom.
 
 - dan berikut untuk contoh hasilnya
 
-![hasil](https://github.com/IdrisSyahrudin/Lab2Web/assets/129921422/2315469e-da10-4012-80d7-5e8e52791ad2)
+![Screenshot (36)](https://github.com/tatiadeswitaa/lab2_web-2/assets/129940568/c34fe435-4b93-4064-81b9-2fee421f6814)
+
 
 # terimakasih
